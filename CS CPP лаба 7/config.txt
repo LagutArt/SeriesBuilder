@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\Лаба 7\Лаба 7
+RandomSequenceInt.txt
+DecreaseSequenceInt.txt
+StepSequenceInt.txt
+IncreaseSequenceInt.txt
+SawtoothSequenceInt.txt
